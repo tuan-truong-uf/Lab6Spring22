@@ -1,5 +1,7 @@
 // Lab 01, Hello
 // Property of Nathan_Truong, COP3502C, Spring 2022
+
+// changes were made, the world is burnt
 import java.util.Scanner;
 public class Hello {
     public static void main(String[] args) {
